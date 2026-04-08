@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-texas-style-roofing-and-remodeling.dream-surge.com/sitemap-index.xml

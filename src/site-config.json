@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Texas Style Roofing and Remodeling",
+    "phone": "+16823069519",
+    "category": "siding installer",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Siding Done Right, Guaranteed.",
+      "heroSubline": "Protect your Arlington home with durable, beautiful siding. Texas Style Roofing and Remodeling: Quality you can trust.",
+      "aboutTitle": "Arlington's Trusted Siding Professionals",
+      "aboutText": [
+        "Texas Style Roofing and Remodeling was founded over a decade ago right here in Arlington. We saw a need for reliable, high-quality siding installation that could stand up to the Texas climate. From those early days working on ranch homes in North Arlington, we've grown into a full-service siding contractor serving the entire DFW metroplex.",
+        "Our approach is simple: treat every home as if it were our own. We use only the best materials, employ skilled craftsmen, and stand behind our work with unwavering commitment. We’re not just installing siding; we’re providing peace of mind.",
+        "We believe in giving back to the community that has supported us. We actively participate in local events and support organizations that help Arlington families thrive. When you choose Texas Style Roofing and Remodeling, you're choosing a partner who cares about our shared home."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Certified installers ensure a flawless fit and lasting protection for your home."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only top-quality siding products designed to withstand the Texas climate."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Arlington's unique architectural styles and weather challenges."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We're not happy until you're completely satisfied with our work."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today!",
+      "ctaSubline": "Get a free, no-obligation siding consultation from Texas Style Roofing and Remodeling."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Affordable, durable, and stylish vinyl siding to upgrade your Arlington home.",
+        "description": "Vinyl siding is a popular choice for Arlington homeowners, and for good reason. It's cost-effective, low-maintenance, and comes in a wide variety of colors and styles to complement any home. Texas Style Roofing and Remodeling specializes in expert vinyl siding installation, ensuring a perfect fit and long-lasting performance.\n\nWe handle every aspect of the project, from removing your old siding to installing new moisture barriers and meticulously fitting each vinyl panel. We pay close attention to detail around windows, doors, and other architectural features to create a seamless, professional finish. Our team is experienced in working with various vinyl siding brands and profiles, including horizontal, vertical, and shake styles.\n\nArlington's climate can be tough on siding, with scorching summers and occasional ice storms. That's why we use high-quality vinyl siding that is designed to withstand extreme temperatures, resist fading, and protect your home from the elements. Upgrade your home's curb appeal and protect your investment with vinyl siding from Texas Style Roofing and Remodeling.",
+        "process": [
+          "Step 1: Consultation and Measurement: We'll assess your needs and provide a detailed estimate.",
+          "Step 2: Old Siding Removal: We'll carefully remove your existing siding and dispose of it properly.",
+          "Step 3: Moisture Barrier Installation: We'll install a new moisture barrier to protect your home from water damage.",
+          "Step 4: Vinyl Siding Installation: We'll expertly install your new vinyl siding with precision and care."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Low Maintenance",
+          "Weather Protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but most vinyl siding installations in Arlington take between 3-7 days."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Yes, vinyl siding can improve your home's energy efficiency by providing an extra layer of insulation. This can help lower your energy bills and keep your home more comfortable year-round."
+          },
+          {
+            "question": "How do I clean vinyl siding?",
+            "answer": "Vinyl siding is easy to clean with a garden hose and a mild detergent. Avoid using harsh chemicals or abrasive cleaners."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable, fire-resistant fiber cement siding for lasting beauty and protection.",
+        "description": "Fiber cement siding is a premium siding option known for its exceptional durability, fire resistance, and aesthetic appeal. Texas Style Roofing and Remodeling is a certified installer of fiber cement siding, providing Arlington homeowners with expert installation and lasting value.\n\nFiber cement siding mimics the look of natural wood without the maintenance requirements. It's resistant to rot, insects, and fire, making it an ideal choice for the Texas climate. We offer a wide range of fiber cement siding styles, including clapboard, shingle, and board-and-batten, allowing you to customize the look of your home.\n\nOur experienced team follows strict manufacturer guidelines to ensure proper installation and optimal performance. We pay close attention to detail, ensuring that every seam is properly sealed and that the siding is securely fastened to your home. With fiber cement siding from Texas Style Roofing and Remodeling, you can enjoy a beautiful, durable, and low-maintenance exterior for years to come.",
+        "process": [
+          "Step 1: Design Consultation: We'll help you choose the perfect fiber cement siding style and color for your home.",
+          "Step 2: Precise Measurement: We'll accurately measure your home's exterior to ensure a perfect fit.",
+          "Step 3: Expert Installation: Our certified installers will meticulously install your new fiber cement siding.",
+          "Step 4: Quality Inspection: We'll conduct a thorough inspection to ensure that every detail meets our high standards."
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Fire Resistance",
+          "Low Maintenance",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50 years or more with proper installation and maintenance."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-primed and ready to paint. We can help you choose the perfect paint color to complement your home."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding, but it offers greater durability and a longer lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Fast, reliable siding repair to protect your home from the elements.",
+        "description": "Even the most durable siding can sustain damage from weather, accidents, or age. Texas Style Roofing and Remodeling offers comprehensive siding repair services to address any issue, from minor cracks and dents to major storm damage.\n\nWe understand the importance of prompt siding repair to prevent water damage and maintain your home's structural integrity. Our experienced technicians can quickly assess the damage and provide effective repair solutions. We work with all types of siding, including vinyl, fiber cement, wood, and metal.\n\nWhether you need a few panels replaced or a complete siding overhaul, we're here to help. We use high-quality materials and proven techniques to ensure that your siding is repaired to its original condition. Don't let damaged siding compromise your home's beauty and protection. Contact Texas Style Roofing and Remodeling for fast, reliable siding repair services.",
+        "process": [
+          "Step 1: Damage Assessment: We'll thoroughly inspect your siding to identify the extent of the damage.",
+          "Step 2: Repair Plan: We'll develop a detailed repair plan and provide you with a transparent estimate.",
+          "Step 3: Expert Repair: Our skilled technicians will perform the necessary repairs with precision and care.",
+          "Step 4: Quality Assurance: We'll ensure that the repairs are completed to your satisfaction and that your siding is properly sealed."
+        ],
+        "benefits": [
+          "Prevent Water Damage",
+          "Maintain Home Value",
+          "Extend Siding Lifespan",
+          "Improve Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Signs of siding damage include cracks, dents, holes, loose panels, and discoloration. If you notice any of these issues, it's important to contact a siding professional for an inspection."
+          },
+          {
+            "question": "Can I repair siding myself?",
+            "answer": "Minor siding repairs can be done by homeowners, but major repairs should be handled by a qualified contractor to ensure proper installation and prevent further damage."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair depends on the extent of the damage and the type of siding. We offer free estimates to provide you with a clear understanding of the repair costs."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Classic wood siding installation, adding warmth and character to your Arlington home.",
+        "description": "For homeowners seeking a timeless and natural aesthetic, wood siding remains a popular choice. Texas Style Roofing and Remodeling offers expert wood siding installation services, bringing warmth and character to Arlington homes.\n\nWe work with a variety of wood siding options, including cedar, redwood, and pine, each offering unique textures and grain patterns. Our skilled craftsmen are experienced in the proper installation techniques to ensure that your wood siding is properly sealed, protected from moisture, and lasts for years to come.\n\nWood siding requires regular maintenance, including painting or staining, to protect it from the elements. We can provide guidance on the best maintenance practices to keep your wood siding looking its best. Embrace the natural beauty of wood with siding installed by Texas Style Roofing and Remodeling.",
+        "process": [
+          "Step 1: Wood Selection: We'll help you choose the perfect wood species and style for your home.",
+          "Step 2: Precise Cutting: We'll carefully cut and shape the wood siding to fit your home's dimensions.",
+          "Step 3: Expert Installation: Our experienced installers will meticulously install your new wood siding.",
+          "Step 4: Sealing and Finishing: We'll properly seal and finish the wood siding to protect it from the elements."
+        ],
+        "benefits": [
+          "Natural Beauty",
+          "Timeless Appeal",
+          "Increased Home Value",
+          "Customizable Finishes"
+        ],
+        "faq": [
+          {
+            "question": "How often does wood siding need to be painted or stained?",
+            "answer": "Wood siding typically needs to be painted or stained every 3-5 years, depending on the climate and the type of wood."
+          },
+          {
+            "question": "Is wood siding susceptible to insects?",
+            "answer": "Yes, wood siding can be susceptible to insects, such as termites and carpenter bees. Regular inspections and preventative treatments are recommended."
+          },
+          {
+            "question": "How can I protect wood siding from moisture?",
+            "answer": "Proper sealing and finishing are essential to protect wood siding from moisture. We use high-quality sealants and paints that are specifically designed for wood siding."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof and home with professional soffit and fascia repair.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, providing ventilation and protection against the elements. Damaged soffit and fascia can lead to water damage, pest infestations, and structural problems. Texas Style Roofing and Remodeling offers expert soffit and fascia repair services to keep your home protected.\n\nWe can repair or replace damaged soffit and fascia made from various materials, including wood, vinyl, and aluminum. Our experienced technicians will carefully assess the damage and provide effective repair solutions. We use high-quality materials and proven techniques to ensure that your soffit and fascia are properly sealed and protected.\n\nDon't let damaged soffit and fascia compromise your home's structural integrity. Contact Texas Style Roofing and Remodeling for prompt and reliable repair services.",
+        "process": [
+          "Step 1: Inspection: We'll thoroughly inspect your soffit and fascia to identify any damage.",
+          "Step 2: Repair or Replacement: We'll repair or replace damaged sections of soffit and fascia.",
+          "Step 3: Sealing: We'll properly seal the soffit and fascia to prevent water damage.",
+          "Step 4: Quality Check: We'll ensure that the repairs are completed to your satisfaction."
+        ],
+        "benefits": [
+          "Prevent Water Damage",
+          "Protect Roof Structure",
+          "Improve Ventilation",
+          "Enhance Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What is the purpose of soffit and fascia?",
+            "answer": "Soffit provides ventilation to the attic, while fascia protects the roof rafters from the elements."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Signs of damage include rot, peeling paint, and sagging."
+          },
+          {
+            "question": "What materials are used for soffit and fascia?",
+            "answer": "Soffit and fascia can be made from wood, vinyl, or aluminum."
+          }
+        ]
+      },
+      {
+        "slug": "metal-siding-installation",
+        "name": "Metal Siding Installation",
+        "shortDescription": "Modern and durable metal siding to give your home a sleek, contemporary look.",
+        "description": "Metal siding is an increasingly popular choice for Arlington homeowners seeking a modern, durable, and low-maintenance exterior. Texas Style Roofing and Remodeling specializes in metal siding installation, offering a range of styles and finishes to suit any architectural design.\n\nMetal siding is resistant to fire, insects, and rot, making it a long-lasting and reliable option for the Texas climate. It's also energy-efficient, helping to reduce your heating and cooling costs. We offer a variety of metal siding options, including steel, aluminum, and zinc, each with its own unique benefits.\n\nOur experienced team is skilled in the proper installation techniques to ensure that your metal siding is securely fastened and properly sealed. We pay close attention to detail, ensuring a seamless and professional finish. Elevate your home's curb appeal with metal siding from Texas Style Roofing and Remodeling.",
+        "process": [
+          "Step 1: Design Consultation: We'll help you choose the perfect metal siding style and finish for your home.",
+          "Step 2: Precise Measurement: We'll accurately measure your home's exterior to ensure a perfect fit.",
+          "Step 3: Expert Installation: Our skilled installers will meticulously install your new metal siding.",
+          "Step 4: Quality Inspection: We'll conduct a thorough inspection to ensure that every detail meets our high standards."
+        ],
+        "benefits": [
+          "Modern Aesthetic",
+          "Exceptional Durability",
+          "Fire Resistance",
+          "Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does metal siding last?",
+            "answer": "Metal siding can last for 50 years or more with proper installation and maintenance."
+          },
+          {
+            "question": "Does metal siding require painting?",
+            "answer": "Metal siding typically comes pre-finished with a durable coating that resists fading and chipping. Painting is generally not required."
+          },
+          {
+            "question": "Is metal siding more expensive than vinyl siding?",
+            "answer": "Metal siding is generally more expensive than vinyl siding, but it offers greater durability and a longer lifespan."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling is proud to offer our expert siding installation services to homeowners in Dallas, Texas. We understand the unique challenges Dallas homes face, from the hot, humid summers to the occasional severe weather. We're experienced in working with the diverse architectural styles found throughout the city.\n\nMany Dallas neighborhoods feature charming 1950s ranch-style homes. We can help you choose siding options that complement the aesthetic of these classic homes while providing enhanced protection and energy efficiency. Whether you're looking for vinyl, fiber cement, or wood siding, we have the expertise to ensure a flawless installation.",
+        "localContext": "We specialize in siding solutions for Dallas's established neighborhoods with their classic 1950s ranch homes, combating the hot, humid summers with durable and energy-efficient materials.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling provides high-quality siding installation services to homeowners in Fort Worth, Texas. We understand the specific needs of Fort Worth homes and are committed to delivering exceptional results.\n\nFort Worth boasts many beautiful Craftsman bungalows, particularly in areas near downtown. We offer a range of siding options that perfectly complement this architectural style, enhancing the curb appeal and protecting your home for years to come. Our skilled technicians are experienced in handling the unique challenges of older homes, ensuring a seamless and professional installation.",
+        "localContext": "We specialize in siding for Fort Worth's charming Craftsman bungalows near downtown, offering materials that respect the architectural style and provide long-lasting protection from the hot, humid climate.",
+        "nearbyAreas": [
+          "Arlington",
+          "Benbrook",
+          "White Settlement"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling is your trusted partner for siding installation in Plano, Texas. We offer a wide selection of siding materials and expert installation services to enhance your home's beauty and protect it from the elements.\n\nPlano is known for its established subdivisions with homes built in the 1980s and 1990s. We can help you update your home's exterior with modern siding options that improve energy efficiency, increase curb appeal, and provide long-lasting protection. From vinyl to fiber cement, we have the perfect siding solution for your Plano home.",
+        "localContext": "We provide siding solutions for Plano's established subdivisions, offering modern materials that improve energy efficiency and complement the existing architecture of homes built in the 1980s and 1990s, all while withstanding the hot, humid summers.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling offers expert siding installation services in Frisco, Texas. We understand the unique needs of Frisco homeowners and are committed to providing exceptional craftsmanship and customer service.\n\nFrisco is characterized by its newer construction homes built in the 2000s and 2020s. We offer a wide range of siding options to complement these modern designs, including durable and energy-efficient materials that will protect your investment for years to come. Whether you're building a new home or renovating an existing one, we have the perfect siding solution for your Frisco property.",
+        "localContext": "We specialize in siding for newer construction homes in Frisco, offering durable and energy-efficient materials that complement modern designs and withstand the hot, humid climate.",
+        "nearbyAreas": [
+          "Little Elm",
+          "Prosper",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling is proud to serve homeowners in McKinney, Texas, with our top-quality siding installation services. We're committed to providing exceptional craftsmanship and customer satisfaction.\n\nMcKinney boasts a charming historic downtown area with many beautifully preserved homes. We offer siding options that complement the unique character of these homes, enhancing their curb appeal and protecting them from the elements. Our experienced team can handle the challenges of working with older homes, ensuring a seamless and professional installation.",
+        "localContext": "We specialize in siding solutions for McKinney's historic downtown homes, offering materials that respect their unique character and provide long-lasting protection from the hot, humid climate.",
+        "nearbyAreas": [
+          "Allen",
+          "Prosper",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "As your local siding experts, Texas Style Roofing and Remodeling is dedicated to providing top-notch siding installation services in Arlington, TX. We understand the local climate and architectural styles, ensuring your home is both beautiful and well-protected.\n\nFrom traditional brick homes to more modern designs, Arlington showcases a variety of housing styles. We offer a wide range of siding options to complement any home, including vinyl, fiber cement, and wood siding. Our experienced team will work with you to choose the perfect siding that meets your needs and budget.",
+        "localContext": "As a local Arlington company, we understand the needs of homeowners in our area, providing customized siding solutions to enhance curb appeal and protect homes from the Texas weather.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling is a leading siding installer in Grand Prairie, TX. We are committed to providing high-quality workmanship and excellent customer service.\n\nGrand Prairie features a diverse range of homes, from established neighborhoods to newer developments. We offer a variety of siding options to suit any style and budget. Our experienced team will ensure a professional installation that will protect your home and enhance its value.",
+        "localContext": "We cater to the diverse housing styles in Grand Prairie, offering siding solutions that enhance curb appeal and provide long-lasting protection from the elements.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Irving"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "Looking for reliable siding installation in Irving, TX? Look no further than Texas Style Roofing and Remodeling. We are dedicated to providing exceptional service and quality workmanship.\n\nIrving is a vibrant city with a mix of residential and commercial properties. We offer a wide range of siding options to meet the needs of any homeowner. Our experienced team will ensure a professional installation that will protect your home and enhance its appearance.",
+        "localContext": "We provide siding solutions for Irving's diverse housing landscape, focusing on quality workmanship and customer satisfaction.",
+        "nearbyAreas": [
+          "Dallas",
+          "Grand Prairie",
+          "Farmers Branch"
+        ]
+      },
+      {
+        "city": "Allen",
+        "slug": "allen-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling is your trusted partner for siding installation in Allen, Texas. We offer a wide selection of siding materials and expert installation services to enhance your home's beauty and protect it from the elements.\n\nAllen has a mix of established and newer communities. We can help you update your home's exterior with modern siding options that improve energy efficiency, increase curb appeal, and provide long-lasting protection. From vinyl to fiber cement, we have the perfect siding solution for your Allen home.",
+        "localContext": "We provide siding solutions for Allen's diverse housing, offering modern materials that improve energy efficiency and complement the existing architecture, all while withstanding the hot, humid summers.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "Texas Style Roofing and Remodeling is proud to offer our expert siding installation services to homeowners in Richardson, Texas. We understand the unique challenges Richardson homes face, from the hot, humid summers to the occasional severe weather. We're experienced in working with the diverse architectural styles found throughout the city.\n\nRichardson has many homes built in the 1970s and 1980s. We can help you choose siding options that complement the aesthetic of these homes while providing enhanced protection and energy efficiency. Whether you're looking for vinyl, fiber cement, or wood siding, we have the expertise to ensure a flawless installation.",
+        "localContext": "We specialize in siding solutions for Richardson's homes built in the 1970s and 1980s, combating the hot, humid summers with durable and energy-efficient materials.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Dallas"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Texas Style Roofing and Remodeling did an amazing job installing new vinyl siding on my house in North Arlington. The crew was professional, efficient, and paid attention to every detail. My house looks brand new!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage on our fiber cement siding after that crazy hail storm in April. Texas Style Roofing and Remodeling came out quickly and repaired the damaged panels seamlessly. Great service!",
+        "date": "2024-09-02"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "We chose Texas Style Roofing and Remodeling to install fiber cement siding on our home in Dalworthington Gardens, and we couldn't be happier. The quality of the work is outstanding, and the siding looks fantastic. Highly recommend!",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "Our soffit was rotting, and Texas Style Roofing and Remodeling fixed it quickly and affordably. They explained everything clearly and did a fantastic job. We'll definitely use them again!",
+        "date": "2024-11-11"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 4,
+        "service": "Wood Siding Installation",
+        "text": "Texas Style Roofing and Remodeling installed beautiful cedar siding on my craftsman style home. The team was professional and the work was top quality. It really improved the curb appeal.",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Metal Siding Installation",
+        "text": "I wanted a modern look for my home, and Texas Style Roofing and Remodeling delivered! The metal siding installation was flawless, and the house looks incredible. Great communication throughout the project.",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arlington TX Siding | Texas Style Roofing",
+        "description": "Expert siding installation and repair in Arlington, TX. Vinyl, fiber cement, wood siding. Free quotes! Call Texas Style Roofing and Remodeling."
+      },
+      "about": {
+        "title": "About Us | Texas Style Roofing and Remodeling",
+        "description": "Learn about Texas Style Roofing and Remodeling, Arlington's trusted siding contractor. Quality siding services and commitment to our community."
+      },
+      "services": {
+        "title": "Siding Services | Texas Style Roofing",
+        "description": "Comprehensive siding services in Arlington, TX. Vinyl siding, fiber cement, wood siding, and more. Expert installation and repair."
+      },
+      "contact": {
+        "title": "Contact Us | Texas Style Roofing and Remodeling",
+        "description": "Contact Texas Style Roofing and Remodeling for a free siding consultation. Serving Arlington and the entire DFW metroplex."
+      },
+      "reviews": {
+        "title": "Reviews | Texas Style Roofing and Remodeling",
+        "description": "Read reviews from satisfied Texas Style Roofing and Remodeling customers. See why we're Arlington's trusted siding contractor."
+      },
+      "service-areas": {
+        "title": "Service Areas | Texas Style Roofing",
+        "description": "Texas Style Roofing and Remodeling provides siding services throughout the DFW metroplex. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "metal-siding-installation": "/images/service-metal-siding-installation.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "metal-siding-installation": {
+        "src": "/images/service-metal-siding-installation.webp",
+        "srcset": "/images/service-metal-siding-installation-400w.webp 400w, /images/service-metal-siding-installation-800w.webp 800w, /images/service-metal-siding-installation-1200w.webp 1200w, /images/service-metal-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
